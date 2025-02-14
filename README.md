@@ -19,13 +19,6 @@ This is the official code release of **[AnyCharV: Bootstrap Controllable Charact
 </div>
 
 
-
-
-## 🙋‍♀️ Feedback and Contact
-
-For further questions, pls feel free to contact [Zhao Wang](mailto:zwang21@cse.cuhk.edu.hk).
-
-
 ## 🛡️ License
 
 This project is under the Apache License 2.0 license. See [LICENSE](LICENSE) for details.
