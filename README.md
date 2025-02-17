@@ -1,10 +1,25 @@
-# AnyCharV
-This is the official code release of **[AnyCharV: Bootstrap Controllable Character Video Generation with Fine-to-Coarse Guidance](https://arxiv.org/abs/2502.08189)** by [Zhao Wang](https://kyfafyd.wang/)\*, [Hao Wen](https://github.com/wenhao7841)\*, [Lingting Zhu](https://scholar.google.com/citations?user=TPD_P98AAAAJ), [Chengming Shang](), [Yujiu Yang](https://sites.google.com/view/iigroup-thu/about)†, [Qi Dou](https://www.cse.cuhk.edu.hk/~qdou)†.
+## ___***AnyCharV: Bootstrap Controllable Character Video Generation with Fine-to-Coarse Guidance***___
+
+<div align="center">
+<img src='assets/favicon.ico' style="height:100px"></img>
+
+
+
+
+ <a href='https://arxiv.org/abs/2502.08189'><img src='https://img.shields.io/badge/arXiv-2502.08189-b31b1b.svg'></a> &nbsp;
+ <a href='https://anycharv.github.io'><img src='https://img.shields.io/badge/Project-Page-Green'></a> &nbsp;
+ <a href='https://huggingface.co/harriswen/AnyCharV'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Page-blue'></a>
+
+_[Zhao Wang](https://kyfafyd.wang/)\*, [Hao Wen](https://github.com/wenhao7841)\*, [Lingting Zhu](https://scholar.google.com/citations?user=TPD_P98AAAAJ), [Chengming Shang](), [Yujiu Yang](https://sites.google.com/view/iigroup-thu/about)†, [Qi Dou](https://www.cse.cuhk.edu.hk/~qdou)†_
+<br><br>
+
+</div>
 
 
 
 ## 📝 Changelog
-- __[2025.02.13]__: 🔥 Project page is built! Code is coming!
+- __[2025.02.17]__: 🔥 Pre-trained model released on huggingface.
+- __[2025.02.13]__: Project page is built.
 
 
 
