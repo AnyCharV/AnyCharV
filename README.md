@@ -1,7 +1,7 @@
 ## ___***AnyCharV: Bootstrap Controllable Character Video Generation with Fine-to-Coarse Guidance***___
 
 <div align="center">
-<img src='assets/favicon.ico' style="height:100px"></img>
+<img src='assets/favicon.ico' style="height:300px"></img>
 
 
 
@@ -19,7 +19,7 @@ _[Zhao Wang](https://kyfafyd.wang/)\*, [Hao Wen](https://github.com/wenhao7841)\
 
 ## 📝 Changelog
 - __[2025.02.18]__: 🔥 Inference code is released. Feel free to try it out!
-- __[2025.02.17]__: 🔥 Pre-trained model released on huggingface.
+- __[2025.02.17]__: Pre-trained model released on huggingface.
 - __[2025.02.13]__: Project page is built.
 
 
