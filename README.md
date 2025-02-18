@@ -18,7 +18,7 @@ _[Zhao Wang](https://kyfafyd.wang/)\*, [Hao Wen](https://github.com/wenhao7841)\
 
 
 ## 📝 Changelog
-- __[2025.02.18]__: 🔥 Inference code is released. Feel free to try it out.
+- __[2025.02.18]__: 🔥 Inference code is released. Feel free to try it out!
 - __[2025.02.17]__: 🔥 Pre-trained model released on huggingface.
 - __[2025.02.13]__: Project page is built.
 
@@ -39,7 +39,7 @@ _[Zhao Wang](https://kyfafyd.wang/)\*, [Hao Wen](https://github.com/wenhao7841)\
 Please follow the instructions below to install the environment.
 
 ```bash
-conda create -n anycha[ffeffrv python=3.10 -y
+conda create -n anycharv python=3.10 -y
 conda activate anycharv
 pip install torch==2.3.1 torchvision xformers -i https://download.pytorch.org/whl/cu118/
 pip install -r requirements.txt
